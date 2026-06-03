@@ -1,0 +1,2 @@
+APP101|PAT001|DOC001|2026-06-03|09:00|Complete|High fever. Headache|Paracetomol
+APP102|PAT001|DOC001|2026-07-01|09:00|Complete|Wound infection|Antibiotics
